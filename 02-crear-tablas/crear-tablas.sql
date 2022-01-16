@@ -6,3 +6,6 @@ password    VARCHAR(100) NOT NULL,
 direccion   VARCHAR(255),
 CONSTRAINT pk_usuario PRIMARY KEY(id)
 );
+
+/* decribir informaciòn de tabla: te da sus datos, como tipos de datos, caracteres, key, etc */
+DESCRIBE usuarios;

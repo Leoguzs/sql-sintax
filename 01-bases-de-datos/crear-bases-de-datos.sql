@@ -10,3 +10,5 @@ DROP DATABASE blog;
 /* selccionar BD */
 use nombre;
 
+
+
